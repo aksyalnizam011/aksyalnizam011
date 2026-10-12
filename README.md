@@ -45,8 +45,6 @@ _Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
 
 <div align="center">
 
-<div align="center">
-
 ## 🪐 Proyek Pilihan
 
 </div>
