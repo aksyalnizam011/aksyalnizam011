@@ -6,7 +6,7 @@
 
 <h3>✦ Data Analyst ✦</h3>
 
-*Mengubah angka menjadi cerita, dan cerita menjadi keputusan.*
+_Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
 
 <br>
 
@@ -25,7 +25,7 @@
 > 📍 Indonesia  
 > 🔍 Mencari pola di balik data  
 > 📐 Membangun dashboard yang bisa dipahami siapa pun  
-> 🧭 Membantu tim mengambil keputusan yang lebih tepat  
+> 🧭 Membantu tim mengambil keputusan yang lebih tepat
 
 <br>
 
@@ -56,32 +56,31 @@
 
 ```
 ┌────────────────────────────────────────────────────────
-│                                                        
-│  🛒  SALES DASHBOARD                                   
-│      Memantau KPI dan tren revenue                     
-│      Tools: Power BI · SQL                             
-│                                                        
+│
+│  🛒  SALES DASHBOARD
+│      Memantau KPI dan tren revenue
+│      Tools: Power BI · SQL
+│
 ├────────────────────────────────────────────────────────
-│                                                        
-│  👥  CUSTOMER SEGMENTATION                             
-│      Mengelompokkan pelanggan berdasarkan perilaku     
-│      Tools: Python · Pandas                            
-│                                                        
+│
+│  👥  CUSTOMER SEGMENTATION
+│      Mengelompokkan pelanggan berdasarkan perilaku
+│      Tools: Python · Pandas
+│
 ├────────────────────────────────────────────────────────
-│                                                        
-│  📉  CHURN ANALYSIS                                    
-│      Menemukan akar penyebab pelanggan berhenti        
-│      Tools: Python · Scikit-learn                      
-│                                                        
+│
+│  📉  CHURN ANALYSIS
+│      Menemukan akar penyebab pelanggan berhenti
+│      Tools: Python · Scikit-learn
+│
 ├────────────────────────────────────────────────────────
-│                                                        
-│  🧪  A/B TEST EVALUATION                               
-│      Menguji hipotesis dengan keyakinan statistik      
-│      Tools: Python · SciPy                             
-│                                                        
+│
+│  🧪  A/B TEST EVALUATION
+│      Menguji hipotesis dengan keyakinan statistik
+│      Tools: Python · SciPy
+│
 └────────────────────────────────────────────────────────
 ```
-
 
 <div align="center">
 
@@ -95,7 +94,7 @@
 
 <br>
 
-*"Di balik setiap angka ada cerita yang menunggu untuk ditemukan."*
+_"Di balik setiap angka ada cerita yang menunggu untuk ditemukan."_
 
 <br>
 
