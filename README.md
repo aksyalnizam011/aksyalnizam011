@@ -51,33 +51,16 @@ _Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
 
 </div>
 
-```
-┌────────────────────────────────────────────────────────
-│
-│  🛒  SALES DASHBOARD
-│      Memantau KPI dan tren revenue
-│      Tools: Power BI · SQL
-│
-├────────────────────────────────────────────────────────
-│
-│  👥  CUSTOMER SEGMENTATION
-│      Mengelompokkan pelanggan berdasarkan perilaku
-│      Tools: Python · Pandas
-│
-├────────────────────────────────────────────────────────
-│
-│  📉  CHURN ANALYSIS
-│      Menemukan akar penyebab pelanggan berhenti
-│      Tools: Python · Scikit-learn
-│
-├────────────────────────────────────────────────────────
-│
-│  🧪  A/B TEST EVALUATION
-│      Menguji hipotesis dengan keyakinan statistik
-│      Tools: Python · SciPy
-│
-└────────────────────────────────────────────────────────
-```
+<div align="center">
+
+| 📁 Proyek | 📝 Deskripsi | 🛠️ Tools |
+|:--:|:--|:--|
+| 🛒 **Sales Dashboard** | Memantau KPI dan tren revenue | Power BI · SQL |
+| 👥 **Customer Segmentation** | Mengelompokkan pelanggan berdasarkan perilaku | Python · Pandas |
+| 📉 **Churn Analysis** | Menemukan akar penyebab pelanggan berhenti | Python · Scikit-learn |
+| 🧪 **A/B Test Evaluation** | Menguji hipotesis dengan keyakinan statistik | Python · SciPy |
+
+</div>
 
 <div align="center">
 
