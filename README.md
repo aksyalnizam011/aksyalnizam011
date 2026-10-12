@@ -1,9 +1,6 @@
+![Header](img/github-header-banner.png)
+
 <div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=DATA+ANALYST" alt="Data Analyst" />
-
 <h3>✦ Data Analyst ✦</h3>
 
 _Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
