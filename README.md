@@ -52,7 +52,7 @@ _Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
 </div>
 
 ```
-────────────────────────────────────────────────────────
+
 
   🛒  SALES DASHBOARD
       Memantau KPI dan tren revenue
@@ -76,7 +76,7 @@ _Mengubah angka menjadi cerita, dan cerita menjadi keputusan._
       Menguji hipotesis dengan keyakinan statistik
       Tools: Python · SciPy
 
-────────────────────────────────────────────────────────
+
 ```
 
 <div align="center">
